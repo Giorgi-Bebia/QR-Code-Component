@@ -13,7 +13,7 @@ img {
     max-width: 100%;
     width: 288px;
     padding: 16px 16px 8px 16px;
-    border-radius: 10%;
+    border-radius: 8%;
 }
 h1 {
     height: 56px;
@@ -25,7 +25,7 @@ h1 {
     line-height: 28px;
     font-family: 'Outfit', sans-serif;
 }
-h3 {
+h2 {
     width: 256px;
     height: 57px;
     font-size: 15px;
